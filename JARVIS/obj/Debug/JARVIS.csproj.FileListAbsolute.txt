@@ -1,0 +1,12 @@
+E:\Programs\C#\JARVIS\JARVIS\bin\Debug\JARVIS.exe.config
+E:\Programs\C#\JARVIS\JARVIS\bin\Debug\JARVIS.exe
+E:\Programs\C#\JARVIS\JARVIS\bin\Debug\JARVIS.pdb
+E:\Programs\C#\JARVIS\JARVIS\bin\Debug\AIMLbot.dll
+E:\Programs\C#\JARVIS\JARVIS\obj\Debug\JARVIS.Form1.resources
+E:\Programs\C#\JARVIS\JARVIS\obj\Debug\JARVIS.Properties.Resources.resources
+E:\Programs\C#\JARVIS\JARVIS\obj\Debug\JARVIS.csproj.GenerateResource.Cache
+E:\Programs\C#\JARVIS\JARVIS\obj\Debug\JARVIS.exe
+E:\Programs\C#\JARVIS\JARVIS\obj\Debug\JARVIS.pdb
+E:\Programs\C#\JARVIS\JARVIS\obj\Debug\JARVIS.csprojResolveAssemblyReference.cache
+E:\Programs\C#\JARVIS\JARVIS\obj\Debug\Interop.WMPLib.dll
+E:\Programs\C#\JARVIS\JARVIS\obj\Debug\JARVIS.csproj.ResolveComReference.cache
