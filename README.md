@@ -55,6 +55,15 @@
 
 > bye
 
+## ScreenShorts:
+<p float="left">
+ <a href="https://imgur.com/DpjHqnS.jpg"><img src="https://imgur.com/DpjHqnS.jpg" height="200" width="250"></a>
+<a href="https://imgur.com/PCC44Kw.jpg"><img src="https://imgur.com/PCC44Kw.jpg" height="200" width="250"></a>
+<a href="https://imgur.com/osyU7hS.jpg"><img src="https://imgur.com/osyU7hS.jpg" height="200" width="250"></a>
+<a href="https://imgur.com/Qmm2cg6.jpg"><img src="https://imgur.com/Qmm2cg6.jpg" height="200" width="250"></a>
+<a href="https://imgur.com/J57XxYb.jpg"><img src="https://imgur.com/J57XxYb.jpg" height="200" width="250"></a>
+</p>
+
 ## License:
 
 Copyright 2018 Microsoft, Inc. Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. See the NOTICE file distributed with this work for additional information regarding copyright ownership. The ASF licenses this file to you under the Apache License, Version 2.0 (the “License”); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
