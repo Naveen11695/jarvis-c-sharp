@@ -55,7 +55,7 @@
 
 > bye
 
-## ScreenShorts:
+## ScreenShots:
 <p float="left">
  <a href="https://imgur.com/DpjHqnS.jpg"><img src="https://imgur.com/DpjHqnS.jpg" height="200" width="250"></a>
 <a href="https://imgur.com/PCC44Kw.jpg"><img src="https://imgur.com/PCC44Kw.jpg" height="200" width="250"></a>
